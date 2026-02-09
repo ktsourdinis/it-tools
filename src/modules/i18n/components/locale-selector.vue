@@ -20,6 +20,7 @@ const localesLong: Record<string, string> = {
   zh: '中文',
   vi: 'Tiếng Việt',
   ar: 'عربي',
+  el: 'Ελληνικά',
 };
 
 const localeOptions = computed(() =>
